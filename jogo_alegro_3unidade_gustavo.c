@@ -25,7 +25,6 @@
 #define MOV_AST1    2   
 
 //as bibliotecas usadas no meu  jogo
-// eu  suzyanne quero  mostrar para marcos sobre o  github
 
 #include <allegro.h>
 #include <stdlib.h>
